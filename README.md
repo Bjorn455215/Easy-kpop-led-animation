@@ -43,3 +43,5 @@
 3. 確保 `touch_sensor = Pin(16, Pin.IN)` 設定正確。
 
 ## 實作成果
+https://github.com/user-attachments/assets/86d740cd-2dc7-49ab-8449-8e1b49134b45
+
